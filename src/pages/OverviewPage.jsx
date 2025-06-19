@@ -20,7 +20,7 @@ const OverviewPage = () => {
 					animate={{ opacity: 1, y: 0 }}
 					transition={{ duration: 1 }}
 				>
-				    <StatCard name='Total Courses Provided' icon={GraduationCap} value='234' color='#8B5CF6' />
+				    <StatCard name='Total login' icon={GraduationCap} value='234' color='#8B5CF6' />
 					<StatCard name='Total number of Contests' icon={LineChart} value='2,345' color='#6366F1' />
 					<StatCard name='Students Participated in Contest' icon={Users} value='5' color='#EC4899' />
 					<StatCard name='Contest Percentage' icon={BarChart2} value='22.5%' color='#10B981' />
