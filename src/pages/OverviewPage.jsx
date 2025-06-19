@@ -25,6 +25,7 @@ const OverviewPage = () => {
 					<StatCard name='Students Participated in Contest' icon={Users} value='5' color='#EC4899' />
 					<StatCard name='Contest Percentage' icon={BarChart2} value='22.5%' color='#10B981' />
 				</motion.div>
+				
 
 				{/* CHARTS */}
 
